@@ -1,0 +1,6 @@
+Backend/node_modules
+Backend/.env
+Frontend/build
+Frontend/.dart_tool
+Frontend/.idea
+Frontend/.flutter-plugins
